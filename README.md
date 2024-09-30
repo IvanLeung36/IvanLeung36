@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IvanLeung36
-- 📖 I'm studying in St Bede's Inter-Church School in Cambridge, United Kingdom
+- 📖 I'm studying in Cambridge Maths School in United Kingdom
 - 👀 I’m interested in Mathematics, Computer Science and Data analytics
 - 🌱 I’m currently learning how to code in C and learning how to analyse data
 - 📫 How to reach me: Please email ivanleung36@gmail.com
